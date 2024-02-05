@@ -1,0 +1,64 @@
+ ________________________
+\   _   _  _             |
+/  (_).| || |       \|/  |
+\  (_).|_||_|      - O - |
+/                   /|\  |
+\  Monday                |
+/                        |
+\  -~-~-~-~-~-           |
+/  -~-~-~-~-~-~-  ,.--.  |
+\  -~-~-~-~-~-   // \  \ |
+/                \\  \ / |
+\                 `'--'  |
+/________________________|
+
+PillPack
+2013-2017
+
+Join our team and help create the future of medicine.
+https://www.pillpack.com/careers
+
+Makers
+--------------
+
+Made with <3 in Somerville, MA.
+
+Matt Kaiser
+Colin Raney
+Lexi Korwin
+Josh Foisey
+Jeff Vlahos
+Alethea Rose
+and many more...
+
+Tech
+--------------
+
+Gulp - Task automation
+gulpjs.com
+
+Nunjucks - Templating
+https://mozilla.github.io/nunjucks/
+
+Sass - CSS pre-processor
+sass-lang.com
+
+JQuery
+https://jquery.com/
+
+Svg4everybody - SVG Sprite Mapping
+https://jonathantneal.github.io/svg4everybody/
+
+Plyr - HTML5 video player
+https://plyr.io/
+
+Swiper - carousel helper
+http://idangero.us/swiper/
+
+Picturefill - Responsive images polyfill
+https://github.com/scottjehl/picturefill
+
+lunr.js - Full text search for questions
+http://lunrjs.com/
+
+and much more...
